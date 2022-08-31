@@ -12,5 +12,6 @@
     "timeout": "20s",
     "output-format": "json",
     "sign-mode": "direct"
+    "memo-prefix": "DrAtavov#0484"
   }
 }
